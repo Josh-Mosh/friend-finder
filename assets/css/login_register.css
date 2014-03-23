@@ -1,0 +1,42 @@
+body {
+	background-color: #AAAAAA;
+	font-family: sans-serif;
+}
+
+#title {
+	margin-top: 0px;
+	border-bottom: 1px solid #444444;
+}
+
+#container {
+	background-color: #CCCCCC;
+	width: 700px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+#register {
+	display: inline-block;
+}
+
+#alerts {
+	height: 20px;
+}
+
+#error {
+	color: red;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	#error p {
+		height: 23px;
+	}
+
+#success {
+	color: green;
+}
+
+#footer {
+	display: block;
+}
